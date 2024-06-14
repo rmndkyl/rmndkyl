@@ -14,7 +14,7 @@
 <p align="left">
   <a href="https://linkedin.com/in/rmndkyl" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://instagram.com/rmndkyl" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://medium.com/@rmndkyl" target="_blank"><img src="https://img.shields.io/badge/-Medium-%2312100E?style=flat&logo=medium&logoColor=white" alt="Medium"/></a>
+  <a href="https://medium.com/@ramandakayla72" target="_blank"><img src="https://img.shields.io/badge/-Medium-%2312100E?style=flat&logo=medium&logoColor=white" alt="Medium"/></a>
   <a href="https://www.hackerrank.com/rmndkyl" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-%232EC866?style=flat&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
   <a href="https://t.me/rmndkyl" target="_blank"><img src="https://img.shields.io/badge/-Telegram-%23E4405F?style=flat&logo=Telegram&logoColor=Blue" alt="Telegram"/></a>
 </p>
