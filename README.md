@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Mandaa!👋</h1>
-<h3 align="center">PEMULUNG DARI BEKASI</h3>
 
 <p align="center">
   <a href="https://github.com/rmndkyl"><img src="https://komarev.com/ghpvc/?username=rmndkyl&style=flat-square" alt="Profile views"/></a>
