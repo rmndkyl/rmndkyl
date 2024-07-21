@@ -27,3 +27,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rmndkyl&show_icons=true&theme=algolia" alt="dante4rt's GitHub Stats"/>
 </p>
+
+[![rmndkyl's GitHub | Topics Over Time](https://stats.quira.sh/rmndkyl/topics-over-time?theme=light)](https://quira.sh?utm_source=widgets&utm_campaign=rmndkyl)
+
+[![rmndkyl's GitHub | Languages Over Time](https://stats.quira.sh/rmndkyl/languages-over-time?theme=light)](https://quira.sh?utm_source=widgets&utm_campaign=rmndkyl)
+
+[![rmndkyl's GitHub | Stats](https://stats.quira.sh/rmndkyl/github?theme=light)](https://quira.sh?utm_source=widgets&utm_campaign=rmndkyl)
