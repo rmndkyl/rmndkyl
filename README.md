@@ -6,9 +6,6 @@
 
 ---
 
-### Sedang Mempelajari:
-- **TypeScript and Solidity**
-
 ### 🤝 Connect with me:
 <p align="left">
   <a href="https://linkedin.com/in/rmndkyl" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
