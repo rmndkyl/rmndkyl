@@ -50,10 +50,10 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://t.me/layerairdrop" target="_blank">
-    <img align="center" src="assets/web.png" alt="website" height="50" width="50" />
+    <img align="center" src="https://raw.githubusercontent.com/rmndkyl/MandaNode/main/WM/telegram.png" alt="website" height="50" width="50" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/samarjit-sahoo/" target="_blank">
-    <img align="center" src="assets/linkedin.png" alt="linkedin" height="60" width="60" />
+  <a href="https://www.linkedin.com/in/ramanda-kayla-94a6a61b3" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rmndkyl/MandaNode/main/WM/linkedin.png" alt="linkedin" height="60" width="60" />
   </a>
 </p>
