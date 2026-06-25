@@ -1,59 +1,115 @@
-<h1 align="center">Ramanda Kayla</h1>
-<h2 align="center">Web3 Observer</h2>
+<h1 align="center">IT Support Specialist | Web3 Community Builder | Technical Support</h2>
+
 <p align="center">
   <img alt="Coding GIF" width="300" height="auto" src="https://raw.githubusercontent.com/rmndkyl/MandaNode/main/WM/coding.gif"/>
 </p>
 
-<h3 align="center">My interests</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Kalnia+Glaze&weight=500&size=30&duration=1000&pause=1000&center=true&random=true&width=500&lines=Artificial+Intelligence;Blockchain;Cryptocurrency" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Kalnia+Glaze&weight=500&size=25&duration=2000&pause=1000&center=true&random=true&width=600&lines=IT+Support+%26+Troubleshooting;Web3+Protocol+Testing;Community+Management;Linux+%26+Network+Administration" alt="Typing SVG" />
 </p>
 
-<p align="center">Currently learning - Artificial Intelligence and Machine Learning</p>
-<p align="center">Currently working on - Private Projects</p>
+---
 
-<h3 align="center">Most Wanted Language</h3>
+### 👨‍💻 **About Me**
+
+- 🔭 **Currently Working:** Founder & Research Lead [@Layer Airdrop Community](https://t.me/layerairdrop)
+- 🌱 **Currently Learning:** CompTIA Security+, Linux System Administration
+- 💼 **Open To:** IT Support, Technical Support, Community Manager, SOC Analyst
+
+---
+
+### 🛠️ **Technical Skills**
+
 <p align="center">
-  <a href="https://raw.githubusercontent.com/rmndkyl/MandaNode/main/WM/python.png" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rmndkyl/MandaNode/main/WM/python.png" alt="Python" height="65" width="65" />
-  </a>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Network_Administration-000000?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking" />
+  <img src="https://img.shields.io/badge/Troubleshooting-FF6B6B?style=for-the-badge" alt="Troubleshooting" />
+  <img src="https://img.shields.io/badge/Technical_Documentation-4ECDC4?style=for-the-badge" alt="Documentation" />
+  <img src="https://img.shields.io/badge/Web3_Security-95E1D3?style=for-the-badge" alt="Web3 Security" />
+  <img src="https://img.shields.io/badge/Community_Management-F38181?style=for-the-badge" alt="Community" />
+</p>
+
+---
+
+### 🏆 **Achievements**
+
+- 🌟 Founded **Layer Airdrop Community** - 1,000+ active members
+- 🐛 Identified vulnerabilities in **50+ Web3 protocols** before mainnet launch
+- 📝 Created **200+ bug reports** with detailed reproduction steps
+- 💬 Resolved **3,000+ technical support tickets** with 95%+ satisfaction rate
+- 📚 Built knowledge base with **50+ troubleshooting guides**
+
+---
+
+### 💼 **Experience**
+
+**Founder & Research Lead** - Layer Airdrop Community (Mar 2023 - Present)
+- Lead protocol testing for early-stage blockchain projects
+- Manage 1,000+ member community on Telegram & Discord
+- Provide technical support & troubleshooting for users
+- Create educational content about Web3 security
+
+**Production Support** - PT. Karya Indah Multiguna (Oct 2020 - Mar 2023)
+- Supported daily operations with strict SOP compliance
+- Performed quality checks and technical documentation
+- Developed problem-solving skills in fast-paced environment
+
+---
+
+### 📊 **GitHub Stats**
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rmndkyl&hide_border=true&show_icons=true&theme=transparent&hide=issues&count_private=true" alt="GitHub Stats" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rmndkyl&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=transparent&hide=html,css,jupyter%20notebook,pug,jinja" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rmndkyl&hide_border=true&theme=transparent" /> 
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rmndkyl&hide_border=true&theme=transparent" alt="Streak Stats" /> 
 </p>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rmndkyl&no-bg=true&no-frame=true&row=2&column=3" alt="Trophies">
-</div>
+---
 
-<div align="center">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rmndkyl&theme=transparent" height="180em" alt="Stats"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rmndkyl&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rmndkyl&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rmndkyl&theme=transparent&utcOffset=5.30" height="180em" alt="Time Graph"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rmndkyl&theme=transparent" height="180em" alt="Commitments"/>
-</div>
+### 🚀 **Current Projects**
+
+- 🔐 **Web3 Protocol Testing** - Security testing for decentralized applications
+- 📖 **IT Support Documentation** - Creating troubleshooting guides & SOPs
+- 🌐 **Network Configuration Scripts** - Automation tools for IT tasks
+- 🛡️ **CompTIA Security+ Prep** - Preparing for certification (Target: 2026)
+
+---
+
+### 📫 **Connect With Me**
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" alt="Random Dev Quote" />
+  <a href="mailto:ramandakayla72@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://t.me/rmndkyl" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://linkedin.com/in/rmndkyl" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://mandayy.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="#1 Portfolio" />
+  </a>
+  <a href="https://ramandakayla.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=red" alt="#2 Portfolio" />
+  </a>
 </p>
 
-<h3 align="center">Connect with Me</h3>
+---
+
 <p align="center">
-  <a href="mailto:layerairdrop@gmail.com" target="_blank">
-    <img align="center" src="https://icon2.cleanpng.com/20190207/uqy/kisspng-gmail-email-google-account-login-g-suite-nvod-freebit-cz-mobiln-ladn-it-magazn-1713907883468.webp" alt="mail" height="50" width="55" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://t.me/layerairdrop" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rmndkyl/MandaNode/main/WM/telegram.png" alt="website" height="50" width="50" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/ramanda-kayla-94a6a61b3" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rmndkyl/MandaNode/main/WM/linkedin.png" alt="linkedin" height="60" width="60" />
-  </a>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" alt="Dev Quote" />
 </p>
+
+<p align="center">⭐ if you find my work interesting!</p>
