@@ -138,9 +138,7 @@ Bimbingan & editing akademik untuk mahasiswa Indonesia.
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rmndkyl&show_icons=true&bg_color=09090b&title_color=3b82f6&icon_color=8b5cf6&text_color=e4e4e7&border_color=27272a&hide_border=true&hide=contribs,issues)](https://github.com/rmndkyl)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rmndkyl&layout=compact&bg_color=09090b&title_color=3b82f6&text_color=e4e4e7&border_color=27272a&hide_border=true)](https://github.com/rmndkyl)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rmndkyl&background=09090b&ring=3b82f6&fire=8b5cf6&currStreakLabel=3b82f6&sideLabels=e4e4e7&border=27272a)](https://github.com/rmndkyl)
 
 </div>
 
