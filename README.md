@@ -45,7 +45,7 @@ Open-source SDK for AI agents on Avalanche C-Chain.
 
 - 🎯 Quest SDK · 🤖 Agent Kit · 🔐 Wallet Manager
 - 📜 Smart contracts verified on Sourcify
-- 🖥️ [Live Dashboard](https://dashboard-mauve-eight-44.vercel.app)
+- 🖥️ [Live Dashboard](https://avalanche-agent-hub.vercel.app)
 
 [GitHub](https://github.com/agenthubavax/avalanche-agent-hub) · [npm](https://www.npmjs.com/package/agent-hub-avax) · [Docs](https://agenthubavax.github.io/avalanche-agent-hub/)
 
