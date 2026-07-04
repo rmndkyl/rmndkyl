@@ -22,6 +22,7 @@
 - 🔭 **Founder** of [Layer Airdrop ID (LYID)](https://github.com/layerairdrop) — crypto automation & airdrop farming community
 - 🤖 **Building** [Avalanche Agent Hub](https://github.com/agenthubavax/avalanche-agent-hub) — open-source SDK for AI agents on Avalanche (Team1 Mini Grant recipient)
 - 🌐 **Web Development** — [ralies.biz.id](https://ralies.biz.id/) — jasa pembuatan website untuk UMKM Indonesia
+- 💼 **Portfolio** — [ramanda-kayla.netlify.app](https://ramanda-kayla.netlify.app/) · [mandayy.netlify.app](https://mandayy.netlify.app/)
 - 📚 **Academic Services** — bimbingan & editing akademik
 - 🌱 **Learning** — CompTIA Security+, Linux System Administration
 - 💬 **Community** — 1,000+ members across Telegram & Discord
@@ -162,6 +163,7 @@ Bimbingan & editing akademik untuk mahasiswa Indonesia.
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rmndkyl)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rmndkyl)
 [![Website](https://img.shields.io/badge/Website-3b82f6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ralies.biz.id/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8b5cf6?style=for-the-badge&logo=netlify&logoColor=white)](https://ramanda-kayla.netlify.app/)
 
 </div>
 
