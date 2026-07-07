@@ -11,7 +11,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=rmndkyl&color=3b82f6&style=flat-square&label=Profile+Views)
 
 [![GitHub followers](https://img.shields.io/github/followers/rmndkyl?style=social)](https://github.com/rmndkyl)
-[![Twitter Follow](https://img.shields.io/twitter/follow/mandayXBT?style=social)](https://twitter.com/mandayXBT)
+[![Twitter Follow](https://img.shields.io/twitter/follow/mandayXBT?style=social)](https://x.com/mandayXBT)
 
 </div>
 
@@ -159,7 +159,7 @@ Bimbingan & editing akademik untuk mahasiswa Indonesia.
 <div align="center">
 
 [![Linktree](https://img.shields.io/badge/Linktree-43E559?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/rmndkyl)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mandayXBT)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mandayXBT)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rmndkyl)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rmndkyl)
 [![Website](https://img.shields.io/badge/Website-3b82f6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ralies.biz.id/)
